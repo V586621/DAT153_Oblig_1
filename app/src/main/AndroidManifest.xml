@@ -9,8 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.DAT153_Oblig_1">
-        <activity
-            android:name=".MainActivity"
+        <activity android:name=".QuizActivity" />
+        <activity android:name=".AddActivity" />
+        <activity android:name=".DatabaseActivity" />
+        <activity android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,3 +23,8 @@
     </application>
 
 </manifest>
+
+
+
+
+

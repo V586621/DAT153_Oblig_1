@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/And0p/AndroidStudioProjects/DAT153_Oblig_1/app/src/main/res/layout/activity_main.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/And0p/AndroidStudioProjects/DAT153_Oblig_1/app/src/main/res/layout/activity_add.xml" value="0.1" />
+        <entry key="..\:/Users/And0p/AndroidStudioProjects/DAT153_Oblig_1/app/src/main/res/layout/activity_database.xml" value="0.1" />
+        <entry key="..\:/Users/And0p/AndroidStudioProjects/DAT153_Oblig_1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/And0p/AndroidStudioProjects/DAT153_Oblig_1/app/src/main/res/layout/activity_quiz.xml" value="0.1" />
+        <entry key="..\:/Users/And0p/AndroidStudioProjects/DAT153_Oblig_1/app/src/main/res/layout/listview_item.xml" value="0.1" />
       </map>
     </option>
   </component>
